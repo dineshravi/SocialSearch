@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">List_Tweets</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_list_tweets">ListTweetsActivity</string>
+    <string name="test">test</string>
+    <string name="title_activity_tweet__main_">Tweet_Main_Activity</string>
+    <string name="edit_message">Type Here</string>
+    <string name="button_send">Send</string>
+    
+
+</resources>
